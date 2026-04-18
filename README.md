@@ -1,102 +1,101 @@
-<!-- PROFILE BANNER -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Aayushi%20Maurya&fontSize=40&fontColor=ffffff)
+![Banner](https://readme-typing-svg.herokuapp.com?color=F70000\&size=30\&center=true\&vCenter=true\&width=800\&lines=Hi+I'm+Aayushi+Maurya;Java+Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+Learner+🚀)
 
-<h2 align="center">Hi 👋, I'm Aayushi Maurya</h2>
-<h4 align="center">Final Year B.Tech Student | MERN Stack Developer</h4>
+# 👩‍💻 Aayushi Maurya
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+### *Crafting Code with Creativity & Passion*
 
 ---
 
 ## 🌟 About Me
-- 🎓 Final Year **B.Tech Student**
-- 💻 Aspiring **Full-Stack (MERN) Developer**
-- 🚀 Currently building **real-world MERN projects**
-- 🌱 Learning **Backend, Authentication & System Design**
-- 🎯 Goal: **Software Developer / Web Developer**
+
+🎓 Final Year B.Tech CSE student & dedicated learner
+💻 Java Full-Stack Developer | MERN Stack Enthusiast
+📚 Exploring Spring Boot, React.js, and modern web technologies
+🛠️ Building impactful projects like **WorkLog** and **Edlly**
+✍️ Passionate about creativity, storytelling, and innovation
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages & Frameworks
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb)
 
-### 🔧 Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,react,nodejs,express" />
+</p>
 
----
+### 🧰 Tools & Platforms
 
-## 📂 Featured Projects
-- 🔗 **Job Portal (MERN Stack)** – Authentication, Roles, Cloudinary  
-- 🔗 **Fake News Detection** – ML + Web Integration  
-- 🔗 **Responsive Landing Pages** – HTML, CSS, JS  
-
-👉 *(Pin these repositories for better visibility)*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,mysql,mongodb,bootstrap" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
+
+### 📌 WorkLog
+
+Employee Performance Management & Compensation Tracking System
+🔗 [View Project](https://github.com/YOUR_USERNAME/WorkLog)
+
+---
+
+### 📌 Edlly
+
+Modern Learning Platform
+🔗 [View Project](https://github.com/YOUR_USERNAME/Edlly)
+
+---
+
+👉 **📂 View All Projects**
+🔗 https://github.com/YOUR_USERNAME?tab=repositories
+
+---
+
+## 📬 Connect With Me
+
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
-✨ *“Learning every day, building every day.”*name: Generate Snake Animation
+## 👀 Visitors
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
-  workflow_dispatch:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+</p>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+---
 
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+## 🐍 Contribution Snake (Animation)
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Quote
+
+**"Code, Create, and Keep Growing!"** 🚀
