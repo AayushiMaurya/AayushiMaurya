@@ -67,13 +67,17 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AayushiMaurya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=AayushiMaurya&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<br/>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushiMaurya&layout=compact&theme=radical&hide_border=true)
+![](https://streak-stats.demolab.com/?user=AayushiMaurya&theme=radical&hide_border=false)<br><br>
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=AayushiMaurya&theme=radical&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AayushiMaurya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
+
+<br/><br/>
+
 
 ---
 
