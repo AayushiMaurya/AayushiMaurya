@@ -26,8 +26,6 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJFH/giphy.gif" width="380" height="280" alt="Developer GIF" />
-
 🎓 **Final Year B.Tech CSE Student** | Passionate Learner & Developer  
 💻 **Java Full-Stack Developer** | Building scalable applications  
 🎨 **MERN Stack Enthusiast** | Crafting modern web experiences  
