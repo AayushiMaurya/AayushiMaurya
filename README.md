@@ -30,25 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushiMaurya&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushiMaurya&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AayushiMaurya&theme=radical" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
 ### 📌 WorkLog
 
 Employee Performance Management & Compensation Tracking System
