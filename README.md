@@ -9,9 +9,6 @@
 # 💫 About Me:
 🎓 Final Year B.Tech CSE student & dedicated learner<br>💻 Java Full-Stack Developer | MERN Stack Enthusiast<br>📚 Exploring Spring Boot, React.js, and modern web technologies<br>🛠️ Building impactful projects like WorkLog and Edlly <br>✍️ Passionate about creativity, storytelling, and innovation
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/vatsal-goil-0ab077283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:njjjnnknkinknink i) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AayushiMaurya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
 ![](https://streak-stats.demolab.com/?user=AayushiMaurya&theme=radical&hide_border=false)<br/><br>
@@ -36,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AayushiMaurya&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushiMaurya&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -45,7 +42,7 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AayushiMaurya&theme=radical" />
 </p>
 
 ---
