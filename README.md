@@ -81,14 +81,6 @@
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AayushiMaurya&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
