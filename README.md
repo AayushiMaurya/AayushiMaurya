@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=👩‍💻+Hi+I'm+Aayushi+Maurya;🚀+Java+Full+Stack+Developer;💡+MERN+Stack+Enthusiast;✨+Crafting+Code+with+Passion" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=👩‍💻+Hi+I'm+Aayushi+Maurya;🚀+Full+Stack+Developer;;✨+Crafting+Code+with+Passion" alt="Animated Header" />
 </div>
 
 <!-- Animated Wave GIF -->
